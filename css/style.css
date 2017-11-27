@@ -1,0 +1,36 @@
+.jumbotron{
+	width: 800px;
+	text-align: center;
+	margin: 10px auto;	
+}
+
+.btn:hover{
+	background-color: #363636;
+}
+
+.btn-dark{
+	color: #FFFFFF;	
+	width: 105px;
+	background-color: #696969;
+}
+
+.navbar{
+	background-color: #696969;
+	width: 100%;
+}
+
+a{
+	color: #FFFFFF;
+	text-align: justify;
+	margin: 0px auto;
+}
+
+a:hover{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.input-group{
+	margin: auto;
+	width: 400px;
+}
