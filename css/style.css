@@ -25,6 +25,11 @@ a{
 	margin: 0px auto;
 }
 
+a:focus{
+	color: #FFFFFF;
+	text-decoration: none; 
+}
+
 a:hover{
 	color: #FFFFFF;
 	text-decoration: none;
