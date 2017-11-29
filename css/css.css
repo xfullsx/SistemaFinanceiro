@@ -1,0 +1,72 @@
+h1{
+
+	font-size: 50px;
+	line-height: 2;
+	letter-spacing: 1px;
+	padding-left: 150px;
+	text-shadow: 3px blue;
+	font-style: monospace;
+	color:black;
+}
+body{
+	
+	background-color: #d8d8d8;
+	margin: 0;
+}
+
+#menu ul{
+	padding-left: 1000px;
+	margin: 0;
+	background-color: black;
+	list-style: none;
+}
+#menu ul li{
+	display: inline;
+}
+ #menu ul li a{
+ 	padding:  20px 20px;
+ 	display: inline-block; 
+ 	color: #fff;
+ 	text-decoration: none;
+ 	font-size: 20px;
+}
+ #menu ul li a:hover{
+ 	color:#8d8b8b;
+}
+
+.masthead{
+	background: url(img/images.jpeg) no-repeat bottom center scroll;
+	display:table;
+	width:100%;
+	height:auto;
+	padding:200px 0;
+	text-align:center;
+	color: #fff;
+	background-color: black;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+
+}
+.masthead img{
+	padding-left: 5%;
+	width:40%; 
+	display: inline;
+
+}
+ .btn{
+	text-align: center;
+	font-weight:400;
+	transition:all .3s ease-in-out;
+	text-transform:uppercase;
+	text-decoration: none;
+	color: #fff;
+
+}
+.btn a: hover{
+	color:#8d8b8b;
+}
+
+
+
